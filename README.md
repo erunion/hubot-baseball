@@ -7,7 +7,7 @@ A [Hubot](https://github.com/github/hubot) plugin for pulling in today's MLB gam
     hubot baseball - Pulls today's games
     hubot baseball <team abbreviation> - Pulls today's game for a given team (ex. SF, NYY).
 
-![hubot baseball](https://raw.githubusercontent.com/jonursenbach/hubot-offthegrid/master/usage.png)
+![hubot baseball](https://raw.githubusercontent.com/jonursenbach/hubot-baseball/master/usage.png)
 
 ### Installation
 1. `npm install hubot-baseball --save`
