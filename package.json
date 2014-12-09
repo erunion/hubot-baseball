@@ -1,6 +1,6 @@
 {
   "name": "hubot-baseball",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "Jon Ursenbach <jon@ursenba.ch>",
   "description": "A Hubot plugin for pulling in today's MLB games (and scores).",
   "keywords": [
