@@ -12,7 +12,7 @@ A [Hubot](https://github.com/github/hubot) plugin for pulling in today's MLB gam
 ### Installation
 1. `npm install hubot-baseball --save`
 2. Add `"hubot-baseball"` to your `external-scripts.json` file.
-4. Reboot Hubot.
+3. Reboot Hubot.
 
 ### Contributors
 
